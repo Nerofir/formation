@@ -1,0 +1,12 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est FA1A-DB8F
+
+ R‚pertoire de C:\Users\utilisateur\Documents\PierreGit\formation-git
+
+23/12/2019  14:36    <DIR>          .
+23/12/2019  14:36    <DIR>          ..
+23/12/2019  14:16               411 monpremiercommit.txt
+23/12/2019  14:36               468 monsecondcommit.txt
+23/12/2019  14:36                 0 montroisiemecommit.txt
+               3 fichier(s)              879 octets
+               2 R‚p(s)  74ÿ133ÿ127ÿ168 octets libres
